@@ -1,4 +1,8 @@
-# Building your layout from source
+# My Moonlander Configuration
+
+I downloaded this source directly from [Oryx](https://configure.zsa.io/moonlander/layouts/9QW6x/latest/0), which is a graphical interface provided by ZSA to configure the keyboards that you buy from them. I'm putting it on GitHub mostly as a backup in case the Oryx site gets taken down in the future for some reason.
+
+## ZSA: Building your layout from source
 
 Congratulations on taking the next step, and making use of your keyboard's open-source nature! There's so much power to unlock — this is going to be fun. :)
 
